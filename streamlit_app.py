@@ -5,9 +5,9 @@ import streamlit as st
 st.caption('キャプション `<caption>`')
 
 st.text('''
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vel velit leo.
-Suspendisse fermentum augue metus, ac lacinia ipsum varius sit amet.
-Nullam sagittis, tellus id finibus tincidunt, elit mi pellentesque sem, sed suscipit mi lectus non quam.''')
+ここに書いたことが表示される。
+これは、public設定なので注意すること。
+''')
 
 st.code('''
 import streamlit as st
